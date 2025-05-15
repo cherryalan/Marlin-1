@@ -833,7 +833,7 @@
 
 // @section bltouch
 
-#if ENABLED(BLTOUCH)
+//ENABLED(BLTOUCH)
   /**
    * Either: Use the defaults (recommended) or: For special purposes, use the following DEFINES
    * Do not activate settings that the probe might not understand. Clones might misunderstand
